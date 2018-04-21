@@ -5,3 +5,17 @@ lee lk
 
 이찬형 바보 
 
+git pull
+git checkout
+git merge
+
+git add .
+git commit -d "말할꺼"
+git push
+
+
+
+i 인설트
+:wq  저장 종료
+:q! 강제종료 
+
